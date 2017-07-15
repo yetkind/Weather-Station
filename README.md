@@ -6,7 +6,7 @@
   \/  \/ \___|\__,_|\__|_| |_|\___|_|    \__/\__\__,_|\__|_|\___/|_| |_|
  						by Yetkin Degirmenci
  </pre>
-+-----------------------------------------------------------------------+
+<hr>
  
  file: weather.bat
  date: 2017-07-13 23:04
@@ -15,23 +15,23 @@
  description: Script to get the current weather data.
  data supplier: http://weather.tuxnet24.de
  licence: MIT Licence
-+-----------------------------------------------------------------------+ 
- Special Thanks to http://weather.tuxnet24.de !!
+
+# Special Thanks to http://weather.tuxnet24.de !!
  
  Guys go fork on Github just drop me a credit if you re-use & I'd enjoy
  to learn what you guys do or created more with this. :)
  - Many blessings
 			
-+-----------------------------------------------------------------------+
+<hr>
 
- Prerequisites
+# Prerequisites
 
  - You have to install curl for Windows from https://curl.haxx.se/download.html
  - Knowledge of how to add new programs to Windows path.
 
-+-----------------------------------------------------------------------+
+<hr>
 
- How to find your city ID
+# How to find your city ID
 
   This program use the data supplied by "weather.tuxnet24.de" web site God bless them!
   they use yahoo services to get data and supply us as XML file 
@@ -40,9 +40,9 @@
   yahoo.com/news/weather/turkey/izmir-province/izmir-2344117
   simply in this example our city ID is "2344117"
 
-+-----------------------------------------------------------------------+
+<hr>
 
- Screen Color
+# Screen Color
 
  On line 47 you can change your weather station according to this
  Color attributes are specified by TWO hex digits -- the first
@@ -58,8 +58,6 @@
     6 = Yellow      E = Light Yellow
     7 = White       F = Bright White
 
-	Here is below my favorite Old school colors yeah! \m/
+Here is below my favorite Old school colors yeah! \m/
   0e : XT Hercules Display
   0a : MDA Green
-
-+-----------------------------------------------------------------------+
