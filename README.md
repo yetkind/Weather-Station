@@ -11,11 +11,10 @@
  file: weather.bat
  date: 2017-07-13 23:04
  author: Yetkin Degirmenci - <yetkind@gmail.com> 
- web:
  description: Script to get the current weather data.
  data supplier: http://weather.tuxnet24.de
  licence: MIT Licence
-
+ 
  Special Thanks to http://weather.tuxnet24.de !!
  
  Guys go fork it, use it, change it just share with me if re-use & I'd enjoy
