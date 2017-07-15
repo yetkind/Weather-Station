@@ -7,17 +7,18 @@
  						by Yetkin Degirmenci
  </pre>
 
- 
- file: weather.bat
- date: 2017-07-13 23:04
- author: Yetkin Degirmenci - <yetkind@gmail.com> 
- description: Script to get the current weather data.
- data supplier: http://weather.tuxnet24.de
- licence: MIT Licence
+ | Desc | detail |
+| ------ | ------ |
+ |file: |weather.bat|
+ |date: |2017-07-13 23:04|
+ |author:| Yetkin Degirmenci - <yetkind@gmail.com> |
+ |description:| Script to get the current weather data.|
+ |data supplier:| http://weather.tuxnet24.de|
+ |licence:| MIT Licence|
  
  Special Thanks to http://weather.tuxnet24.de !!
  
- Guys go fork it, use it, change it just share with me if re-use & I'd enjoy
+ Guys go fork it, use it, change it just share with me too, I'd enjoy
  to learn what you guys do or created more with this. :)
  Many blessings
 			
@@ -58,5 +59,5 @@
     7 = White       F = Bright White
 
 Here is below my favorite Old school colors yeah! \m/
-0e : XT Hercules Display
-0a : MDA Green
+- 0e : XT Hercules Display
+- 0a : MDA Green
