@@ -28,7 +28,7 @@
 
  - You have to install curl for Windows from https://curl.haxx.se/download.html
  - Knowledge of how to add new programs to Windows path.
-
+ - Important! - call it inside from commandline otherwise Degree symbols not gonna work fyi ^^
 
 
 # How to find your city ID
