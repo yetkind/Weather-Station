@@ -11,7 +11,7 @@
 | ------ | ------ |
  |file: |weather.bat|
  |date: |2017-07-13 23:04|
- |author:| Yetkin Degirmenci - <yetkind@gmail.com> |
+ |author:| Yetkin Degirmenci - <yetkin81@gmail.com> |
  |description:| Script to get the current weather data.|
  |data supplier:| http://weather.tuxnet24.de|
  |licence:| MIT Licence|
